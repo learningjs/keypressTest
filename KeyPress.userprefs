@@ -1,0 +1,13 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="10/01/2013 14:22:36">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="KeyPress/Game1.cs">
+    <Files>
+      <File FileName="KeyPress/Game1.cs" Line="62" Column="26" />
+      <File FileName="KeyPress/Main.cs" Line="31" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
